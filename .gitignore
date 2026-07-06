@@ -1,0 +1,26 @@
+# === 编译中间文件 & 可执行文件 ===
+# c / c++
+  *.exe
+  *.out
+  *.o
+  *.obj
+  *.pdb
+  *.ilk
+
+# python
+  __pycache__/
+  *.py[cod]
+  *.sd
+  *.pyd
+
+# === VS Code ===
+  *.vscode/
+
+# === OS相关 ===
+  .DS_Store
+  Thumbs.db
+
+# === temp ===
+  temp/
+  *.tmp
+  *.log
